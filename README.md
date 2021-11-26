@@ -16,7 +16,7 @@
 ### Single & Memory
 
 - `Memory-Aware Framework for Efficient Second-Order Random Walk on Large Graphs (SIGMOD'20)` [[paper]](https://shaoyx.github.io/files/main.pdf)
-- `ThunderRW: An In-Memory Graph Random Walk Engine` [[paper]](https://arxiv.org/pdf/2107.11983.pdf), [[code]](https://github.com/Xtra-Computing/ThunderRW)
+- **ThunderRW** - `ThunderRW: An In-Memory Graph Random Walk Engine` [[paper]](https://arxiv.org/pdf/2107.11983.pdf), [[code]](https://github.com/Xtra-Computing/ThunderRW)
 - **FlashMob** - `Random Walks on Huge Graphs at Cache Efficiency (SOSP'21)` [[paper]](https://dl.acm.org/doi/pdf/10.1145/3477132.3483575),[[code]](https://github.com/flashmobwalk/flashmob), [[video]](https://www.youtube.com/watch?v=JGqoww5DSRg)
 
 ### Distributed & Memory
