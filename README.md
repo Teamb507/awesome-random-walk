@@ -22,6 +22,7 @@
 ### Distributed & Memory
 
 - **KnightKing** - `KnightKing: A Fast Distributed Graph Random Walk Engine (SOSP'19)` [[paper]](http://madsys.cs.tsinghua.edu.cn/publications/SOSP19-yang.pdf), [[code]](https://github.com/KnightKingWalk/KnightKing)
+- **SOOP** - `SOOP: Efficient Distributed Graph Computation Supporting Second-Order Random Walks (APPT'21)` [[paper]](https://jcst.ict.ac.cn/EN/10.1007/s11390-021-1234-y)
 
 
 ### Related Papers
